@@ -5,8 +5,11 @@
 Vous avez besoin d'avoir python3 d'installé.
 
 `python3 -m venv venv`
+
 `source ./venv/bin/activate`
+
 `pip3 install -r requirements.txt`
+
 `python3 app.py`
 
 ## Règles
